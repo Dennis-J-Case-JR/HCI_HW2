@@ -1,0 +1,332 @@
+Trial 1's time in seconds on difficulty 2 to complete: 0.6774718761444092
+
+Trial 2's time in seconds on difficulty 2 to complete: 0.7835156917572021
+
+Trial 3's time in seconds on difficulty 2 to complete: 0.5461742877960205
+
+Trial 4's time in seconds on difficulty 2 to complete: 0.5339603424072266
+
+Trial 5's time in seconds on difficulty 2 to complete: 0.7976694107055664
+
+Trial 6's time in seconds on difficulty 2 to complete: 0.5627145767211914
+
+Trial 7's time in seconds on difficulty 2 to complete: 0.576195240020752
+
+Trial 8's time in seconds on difficulty 2 to complete: 1.99920654296875
+
+Trial 9's time in seconds on difficulty 2 to complete: 0.5403969287872314
+
+Trial 10's time in seconds on difficulty 2 to complete: 0.50313401222229
+
+Trial 11's time in seconds on difficulty 2 to complete: 2.407989025115967
+
+Trial 12's time in seconds on difficulty 2 to complete: 0.8124957084655762
+
+Trial 13's time in seconds on difficulty 2 to complete: 0.5597586631774902
+
+Trial 14's time in seconds on difficulty 2 to complete: 0.8555600643157959
+
+Trial 15's time in seconds on difficulty 2 to complete: 0.6944389343261719
+
+Trial 16's time in seconds on difficulty 2 to complete: 0.5995256900787354
+
+Trial 17's time in seconds on difficulty 2 to complete: 0.7117421627044678
+
+Trial 18's time in seconds on difficulty 2 to complete: 0.72609543800354
+
+Trial 19's time in seconds on difficulty 2 to complete: 0.6641931533813477
+
+Trial 20's time in seconds on difficulty 2 to complete: 0.5386698246002197
+
+Trial 21's time in seconds on difficulty 2 to complete: 0.5078396797180176
+
+Trial 22's time in seconds on difficulty 2 to complete: 0.5317184925079346
+
+Trial 23's time in seconds on difficulty 2 to complete: 0.4021143913269043
+
+Trial 24's time in seconds on difficulty 2 to complete: 0.5088298320770264
+
+Trial 25's time in seconds on difficulty 2 to complete: 0.4145033359527588
+
+Trial 26's time in seconds on difficulty 2 to complete: 0.44342470169067383
+
+Trial 27's time in seconds on difficulty 2 to complete: 0.44577550888061523
+
+Trial 28's time in seconds on difficulty 2 to complete: 0.47271251678466797
+
+Trial 29's time in seconds on difficulty 2 to complete: 0.918337345123291
+
+Trial 30's time in seconds on difficulty 2 to complete: 0.6148076057434082
+
+Trial 31's time in seconds on difficulty 3 to complete: 0.8424885272979736
+
+Trial 32's time in seconds on difficulty 3 to complete: 0.7611052989959717
+
+Trial 33's time in seconds on difficulty 3 to complete: 0.6230049133300781
+
+Trial 34's time in seconds on difficulty 3 to complete: 0.5277819633483887
+
+Trial 35's time in seconds on difficulty 3 to complete: 0.5363242626190186
+
+Trial 36's time in seconds on difficulty 3 to complete: 1.7028145790100098
+
+Trial 37's time in seconds on difficulty 3 to complete: 0.5532267093658447
+
+Trial 38's time in seconds on difficulty 3 to complete: 0.5949158668518066
+
+Trial 39's time in seconds on difficulty 3 to complete: 0.6103897094726562
+
+Trial 40's time in seconds on difficulty 3 to complete: 0.6962728500366211
+
+Trial 41's time in seconds on difficulty 3 to complete: 1.6512134075164795
+
+Trial 42's time in seconds on difficulty 3 to complete: 0.5127756595611572
+
+Trial 43's time in seconds on difficulty 3 to complete: 0.577523946762085
+
+Trial 44's time in seconds on difficulty 3 to complete: 0.7830071449279785
+
+Trial 45's time in seconds on difficulty 3 to complete: 0.5693058967590332
+
+Trial 46's time in seconds on difficulty 3 to complete: 0.6256256103515625
+
+Trial 47's time in seconds on difficulty 3 to complete: 0.5326225757598877
+
+Trial 48's time in seconds on difficulty 3 to complete: 0.43935203552246094
+
+Trial 49's time in seconds on difficulty 3 to complete: 0.6111180782318115
+
+Trial 50's time in seconds on difficulty 3 to complete: 0.46894192695617676
+
+Trial 51's time in seconds on difficulty 3 to complete: 0.6996722221374512
+
+Trial 52's time in seconds on difficulty 3 to complete: 0.844843864440918
+
+Trial 53's time in seconds on difficulty 3 to complete: 0.5197980403900146
+
+Trial 54's time in seconds on difficulty 3 to complete: 0.5386245250701904
+
+Trial 55's time in seconds on difficulty 3 to complete: 0.5190441608428955
+
+Trial 56's time in seconds on difficulty 3 to complete: 0.4655036926269531
+
+Trial 57's time in seconds on difficulty 3 to complete: 0.7014250755310059
+
+Trial 58's time in seconds on difficulty 3 to complete: 0.5009949207305908
+
+Trial 59's time in seconds on difficulty 3 to complete: 0.4801924228668213
+
+Trial 60's time in seconds on difficulty 3 to complete: 0.6768221855163574
+
+Trial 61's time in seconds on difficulty 4 to complete: 1.6763925552368164
+
+Trial 62's time in seconds on difficulty 4 to complete: 1.6704118251800537
+
+Trial 63's time in seconds on difficulty 4 to complete: 0.6992104053497314
+
+Trial 64's time in seconds on difficulty 4 to complete: 0.7276191711425781
+
+Trial 65's time in seconds on difficulty 4 to complete: 0.6635468006134033
+
+Trial 66's time in seconds on difficulty 4 to complete: 0.7281265258789062
+
+Trial 67's time in seconds on difficulty 4 to complete: 1.0469248294830322
+
+Trial 68's time in seconds on difficulty 4 to complete: 0.782498836517334
+
+Trial 69's time in seconds on difficulty 4 to complete: 0.6234638690948486
+
+Trial 70's time in seconds on difficulty 4 to complete: 0.5024263858795166
+
+Trial 71's time in seconds on difficulty 4 to complete: 1.068058967590332
+
+Trial 72's time in seconds on difficulty 4 to complete: 0.9071705341339111
+
+Trial 73's time in seconds on difficulty 4 to complete: 0.8933892250061035
+
+Trial 74's time in seconds on difficulty 4 to complete: 0.675722599029541
+
+Trial 75's time in seconds on difficulty 4 to complete: 0.6403732299804688
+
+Trial 76's time in seconds on difficulty 4 to complete: 0.6231632232666016
+
+Trial 77's time in seconds on difficulty 4 to complete: 0.6909677982330322
+
+Trial 78's time in seconds on difficulty 4 to complete: 0.7918229103088379
+
+Trial 79's time in seconds on difficulty 4 to complete: 0.6957247257232666
+
+Trial 80's time in seconds on difficulty 4 to complete: 0.7043969631195068
+
+Trial 81's time in seconds on difficulty 4 to complete: 0.8292920589447021
+
+Trial 82's time in seconds on difficulty 4 to complete: 0.5874578952789307
+
+Trial 83's time in seconds on difficulty 4 to complete: 0.5580172538757324
+
+Trial 84's time in seconds on difficulty 4 to complete: 0.9444172382354736
+
+Trial 85's time in seconds on difficulty 4 to complete: 0.684661865234375
+
+Trial 86's time in seconds on difficulty 4 to complete: 0.7534253597259521
+
+Trial 87's time in seconds on difficulty 4 to complete: 0.5647830963134766
+
+Trial 88's time in seconds on difficulty 4 to complete: 0.6244773864746094
+
+Trial 89's time in seconds on difficulty 4 to complete: 0.543388843536377
+
+Trial 90's time in seconds on difficulty 4 to complete: 0.575272798538208
+
+Trial 91's time in seconds on difficulty 5 to complete: 0.601386308670044
+
+Trial 92's time in seconds on difficulty 5 to complete: 0.6082520484924316
+
+Trial 93's time in seconds on difficulty 5 to complete: 0.6616306304931641
+
+Trial 94's time in seconds on difficulty 5 to complete: 0.6432516574859619
+
+Trial 95's time in seconds on difficulty 5 to complete: 0.6215934753417969
+
+Trial 96's time in seconds on difficulty 5 to complete: 0.5959398746490479
+
+Trial 97's time in seconds on difficulty 5 to complete: 0.5962607860565186
+
+Trial 98's time in seconds on difficulty 5 to complete: 2.8450846672058105
+
+Trial 99's time in seconds on difficulty 5 to complete: 0.6672115325927734
+
+Trial 100's time in seconds on difficulty 5 to complete: 0.593498945236206
+
+Trial 101's time in seconds on difficulty 5 to complete: 0.769390344619751
+
+Trial 102's time in seconds on difficulty 5 to complete: 0.6089861392974854
+
+Trial 103's time in seconds on difficulty 5 to complete: 1.362206220626831
+
+Trial 104's time in seconds on difficulty 5 to complete: 0.8841474056243896
+
+Trial 105's time in seconds on difficulty 5 to complete: 0.6534926891326904
+
+Trial 106's time in seconds on difficulty 5 to complete: 0.7749998569488525
+
+Trial 107's time in seconds on difficulty 5 to complete: 0.8226666450500488
+
+Trial 108's time in seconds on difficulty 5 to complete: 0.7474868297576904
+
+Trial 109's time in seconds on difficulty 5 to complete: 0.9716317653656006
+
+Trial 110's time in seconds on difficulty 5 to complete: 0.8630485534667969
+
+Trial 111's time in seconds on difficulty 5 to complete: 2.4193100929260254
+
+Trial 112's time in seconds on difficulty 5 to complete: 0.97109055519104
+
+Trial 113's time in seconds on difficulty 5 to complete: 0.7831447124481201
+
+Trial 114's time in seconds on difficulty 5 to complete: 0.7968754768371582
+
+Trial 115's time in seconds on difficulty 5 to complete: 0.7676494121551514
+
+Trial 116's time in seconds on difficulty 5 to complete: 0.8656880855560303
+
+Trial 117's time in seconds on difficulty 5 to complete: 0.691068172454834
+
+Trial 118's time in seconds on difficulty 5 to complete: 0.9607768058776855
+
+Trial 119's time in seconds on difficulty 5 to complete: 0.992640495300293
+
+Trial 120's time in seconds on difficulty 5 to complete: 2.4131953716278076
+
+Trial 121's time in seconds on difficulty 6 to complete: 0.8064188957214355
+
+Trial 122's time in seconds on difficulty 6 to complete: 0.9861679077148438
+
+Trial 123's time in seconds on difficulty 6 to complete: 0.7848279476165771
+
+Trial 124's time in seconds on difficulty 6 to complete: 0.7693462371826172
+
+Trial 125's time in seconds on difficulty 6 to complete: 1.2087209224700928
+
+Trial 126's time in seconds on difficulty 6 to complete: 0.821483850479126
+
+Trial 127's time in seconds on difficulty 6 to complete: 0.9604036808013916
+
+Trial 128's time in seconds on difficulty 6 to complete: 0.7962265014648438
+
+Trial 129's time in seconds on difficulty 6 to complete: 0.7686517238616943
+
+Trial 130's time in seconds on difficulty 6 to complete: 0.6719214916229248
+
+Trial 131's time in seconds on difficulty 6 to complete: 0.9942188262939453
+
+Trial 132's time in seconds on difficulty 6 to complete: 0.9620234966278076
+
+Trial 133's time in seconds on difficulty 6 to complete: 0.9475088119506836
+
+Trial 134's time in seconds on difficulty 6 to complete: 0.9040243625640869
+
+Trial 135's time in seconds on difficulty 6 to complete: 1.0748169422149658
+
+Trial 136's time in seconds on difficulty 6 to complete: 0.7918050289154053
+
+Trial 137's time in seconds on difficulty 6 to complete: 0.8480854034423828
+
+Trial 138's time in seconds on difficulty 6 to complete: 0.90201735496521
+
+Trial 139's time in seconds on difficulty 6 to complete: 0.8604226112365723
+
+Trial 140's time in seconds on difficulty 6 to complete: 0.8278489112854004
+
+Trial 141's time in seconds on difficulty 6 to complete: 0.8064296245574951
+
+Trial 142's time in seconds on difficulty 6 to complete: 0.8401553630828857
+
+Trial 143's time in seconds on difficulty 6 to complete: 0.7802488803863525
+
+Trial 144's time in seconds on difficulty 6 to complete: 0.7689974308013916
+
+Trial 145's time in seconds on difficulty 6 to complete: 0.8977258205413818
+
+Trial 146's time in seconds on difficulty 6 to complete: 0.7963626384735107
+
+Trial 147's time in seconds on difficulty 6 to complete: 0.7979788780212402
+
+Trial 148's time in seconds on difficulty 6 to complete: 0.8817987442016602
+
+Trial 149's time in seconds on difficulty 6 to complete: 0.730597972869873
+
+Trial 150's time in seconds on difficulty 6 to complete: 0.736311674118042
+
+Set 1's average time in seconds to complete: 0.752043890953064
+
+Set 2's average time in seconds to complete: 0.8570468664169312
+
+Set 3's average time in seconds to complete: 0.5260063409805298
+
+Set 4's average time in seconds to complete: 0.7448324680328369
+
+Set 5's average time in seconds to complete: 0.6771486282348633
+
+Set 6's average time in seconds to complete: 0.5946921110153198
+
+Set 7's average time in seconds to complete: 0.912062120437622
+
+Set 8's average time in seconds to complete: 0.7690790176391602
+
+Set 9's average time in seconds to complete: 0.6665193796157837
+
+Set 10's average time in seconds to complete: 0.8434109926223755
+
+Set 11's average time in seconds to complete: 0.8458056449890137
+
+Set 12's average time in seconds to complete: 1.1661439180374145
+
+Set 13's average time in seconds to complete: 0.8574169158935547
+
+Set 14's average time in seconds to complete: 0.911277174949646
+
+Set 15's average time in seconds to complete: 0.8036607027053833
+
+Overall average for all trials is: 0.7951430781682333
+
